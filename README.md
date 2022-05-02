@@ -2,7 +2,7 @@
 
 The Quantum Clustering (QC) method begins by generating a wave function for estimating the data points’ density distribution, which is the sum of Gaussian kernels to the data points’ centers. It then forms the corresponding potential function and finally locates clusters, emphasizing the potential function’s minimums. This process is highly sensitive to the kernel bandwidth in the Schrödinger equation that controls the shape of the Gaussian kernel and affects the clustering result. This paper proposes an Apollonius Circle-based Quantum Clustering (ACQC) method, which adaptively and automatically sets the kernel bandwidth without any prior knowledge regarding the data points and clusters. ACQC is the first attempt to achieve such an adaptive kernel bandwidth through the Apollonius region’s neighborhood construction. The wave function is estimated based on data points in the neighborhood group constructed by Apollonius circles to optimize ACQC calculations. The experimental results of ACQC compared to the original QC method indicate an improvement in calculation efficiency by approximately a 38.3% reduction in terms of running time and a 41.17% improvement in detecting the correct number of clusters. Extensive experiments on four synthetic and 20 real-world datasets show that ACQC outperforms state-of-the-art methods significantly. 
 
-
+![ACQC](https://user-images.githubusercontent.com/15902165/166232065-bd1636a9-f599-4f6a-8557-c417d894a023.jpg)
 
 
 The ACQC repository includes the MATLAB implementation of the ACQC and original QC methods:
