@@ -16,7 +16,7 @@ The SourceCode contains three folders:
 # Condition and terms to use any sources of this project (Codes, Datasets, etc.):
 
 1.	Please cite the following paper:
-N.Abdolmaleki, L.Mohammad Khanli, M.Hashemzadeh, , S.Pourbahrami, " ACQC: Apollonius Circle-based Quantum Clustering," Journal of Computational Science,64 (2022)101877.
+N.Abdolmaleki, L.Mohammad Khanli, M.Hashemzadeh, S.Pourbahrami, ACQC: Apollonius Circle-based Quantum Clustering, Journal of Computational Science,64 (2022)101877.
 2.	Please do not distribute the database or source codes to others without the authorization from Dr. Mahdi Hashemzadeh (Corresponding author).
 Authors’ Emails: N.abdolmaleki@tabrizu.ac.ir (N. Abdolmaleki), l-khanli@tabrizu.ac.ir (L. M. Khanli), hashemzadeh@azaruniv.ac.ir (M. Hashemzadeh), sh.pourbahrami@tabrizu.ac.ir (S. Pourbahrami).
 
